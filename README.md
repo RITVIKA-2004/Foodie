@@ -8,10 +8,10 @@ The Calorie Calculator is a user-friendly and efficient tool designed to help in
 - **Accurate Calorie Estimations:** Utilizing a comprehensive database of foods and their respective nutritional information, the calculator provides accurate estimations of calorie counts for a wide variety of meals and ingredients.
 
 
-![Screenshot 1: User Profile](C:\Users\KEERTHIKA\Pictures\Screenshots\Screenshot (1148).png)
-
-![Screenshot 2: Food Search](C:\Users\KEERTHIKA\Pictures\Screenshots\Screenshot (1147).png)
 ![Screenshot (1148)](https://github.com/RITVIKA-2004/Foodie/assets/105379879/d5af5219-4b55-444c-ada1-dc8a781b08a3)
 
 
-![Screenshot 2: Food Search](C:\Users\KEERTHIKA\Pictures\Screenshots\Screenshot (1146).png)
+![Screenshot (1147)](https://github.com/RITVIKA-2004/Foodie/assets/105379879/5d85566c-f75f-4ca4-abfe-69f9288466e3)
+
+
+![Screenshot (1146)](https://github.com/RITVIKA-2004/Foodie/assets/105379879/adcee8fc-250e-4310-a171-a0cba8f16cf6)
