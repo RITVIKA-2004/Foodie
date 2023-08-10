@@ -11,5 +11,7 @@ The Calorie Calculator is a user-friendly and efficient tool designed to help in
 ![Screenshot 1: User Profile](C:\Users\KEERTHIKA\Pictures\Screenshots\Screenshot (1148).png)
 
 ![Screenshot 2: Food Search](C:\Users\KEERTHIKA\Pictures\Screenshots\Screenshot (1147).png)
+![Screenshot (1148)](https://github.com/RITVIKA-2004/Foodie/assets/105379879/d5af5219-4b55-444c-ada1-dc8a781b08a3)
+
 
 ![Screenshot 2: Food Search](C:\Users\KEERTHIKA\Pictures\Screenshots\Screenshot (1146).png)
